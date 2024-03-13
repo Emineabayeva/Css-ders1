@@ -1,0 +1,36 @@
+.box{
+    width: 500px;
+}
+.box__img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.box__img{
+    border-bottom: 3px solid aqua;
+}
+.title h3{
+    color: red;
+    
+}
+.box__img{
+    text-align: center;
+}
+.box{
+    width: 60%;
+    margin: auto;
+}
+body{
+    background-color: blanchedalmond;
+}
+
+
+
+
+
+
+
+
+
+
+
